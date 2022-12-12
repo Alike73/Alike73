@@ -1,4 +1,4 @@
-![I am Software Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Software Web Developer](https://github.com/Alike73/Alike73/blob/main/alimGitBG.png)
 # Alimzhan Islamkulov
 ## I am Software Web Developer
 
