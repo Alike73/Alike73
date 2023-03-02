@@ -2,10 +2,7 @@
 # Alimzhan Islamkulov
 ## I am Software Web Developer
 
-  I like building fun, creative websites and side projects that are also performant and accessible.
-							After almost five years in the IT business I managed to work with a few technologies. I liked most of them and I would love to learn how to use them better.
-							Now I'm teaching myself how to code using React. I'm so excited about this, I want to learn and understand more about this beautiful world of coding.
-							I’m constantly searching for new technologies to test and learn by doing, and following different guides I found around the web. I also really like dogs, traveling and camping. These things inspire me a lot. End of course special Thanks and gratitude to my teacher Alla from canshecode.
+  Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in JavaScript, React js, Redux, Node.js, Software Development - Web Development. Strong engineering with a Master's degree in Computer and Medical Science. I’m constantly searching for new technologies to test and learn by doing, and following different guides I found around the web. I also really like dogs, traveling and camping. These things inspire me a lot. End of course special thanks and gratitude to my teacher Alla from canshecode.
 
 ## Skills and Experience
 * ⚛ React
