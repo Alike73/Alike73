@@ -1,4 +1,4 @@
-![I am Software Web Developer](GitHubBanner1.jpg)
+![I am Software Web Developer](GitHubBanner1.png)
 # Alimzhan Islamkulov
 ## I am Software Web Developer
 
