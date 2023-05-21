@@ -1,4 +1,4 @@
-![I am Software Web Developer](https://github.com/Alike73/Alike73/blob/main/World%20Map1.png)
+![I am Software Web Developer](GitHubBanner1.jpg)
 # Alimzhan Islamkulov
 ## I am Software Web Developer
 
