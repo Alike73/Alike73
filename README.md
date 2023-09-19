@@ -1,6 +1,6 @@
 ![I am a Software Web Developer](GitHubBanner1.png)
-# Alimzhan Islamkulov
-## Full-Stack Web Developer
+# Full-Stack Web Developer
+## Who I am
 
   Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in JavaScript, React js, Redux, Node.js, Software Development - Web Development. Strong engineering with a Master's degree in Computer and Medical Science. Continual Learning and Skill Enhancement: I am passionate about staying up-to-date with the latest developments in the field of full-stack development. I actively seek out opportunities to learn new programming languages, frameworks, and technologies to enhance my skills and bring fresh perspectives to my projects. I also really like dogs, traveling, and camping. These things inspire me a lot.
 
