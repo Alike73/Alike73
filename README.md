@@ -1,4 +1,4 @@
-![I am a Software Web Developer](GitHubBanner2.png)
+![I am a Software Web Developer](Linkedin-GitHub-BGNEW.jpg)
 # Full-Stack Web Developer
 ## Who I am
 
