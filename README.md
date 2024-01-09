@@ -2,7 +2,8 @@
 # Full-Stack Web Developer
 ## Who I am
 
-  Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in JavaScript, React js, Redux, Node.js, Software Development - Web Development. Strong engineering with a Master's degree in Computer and Medical Science. Continual Learning and Skill Enhancement: I am passionate about staying up-to-date with the latest developments in the field of full-stack development. I actively seek out opportunities to learn new programming languages, frameworks, and technologies to enhance my skills and bring fresh perspectives to my projects. 
+  Full-stack developer with 6+ years of experience creating and managing responsive web applications and RESTful APIs. Proven track record in enhancing website performance, reducing bugs, and boosting traffic.
+The only way to improve your coding skills is to share your knowledge and help others. 
 
 ## My Stack of Technologies:
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=html5&logoColor=F94C10&label=html5&color=557A46)
