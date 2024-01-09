@@ -3,7 +3,7 @@
 ## Who I am
 
   Full-stack developer with 6+ years of experience creating and managing responsive web applications and RESTful APIs. Proven track record in enhancing website performance, reducing bugs, and boosting traffic.
-The only way to improve your coding skills is to share your knowledge and help others. 
+### The only way to improve your coding skills is to share your knowledge and help others. 
 
 ## My Stack of Technologies:
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=html5&logoColor=F94C10&label=html5&color=557A46)
