@@ -2,7 +2,7 @@
 # Full-Stack Development
 ## Who I am
 
-  Full-stack developer with 6+ years of experience creating and managing responsive web applications and RESTful APIs. Proven track record in enhancing website performance, reducing bugs, and boosting traffic.
+  Full-stack developer with 6+ years of experience creating and managing responsive web applications and RESTful APIs. Coding on ReactJS and dreaming on ReactJS. Help companies build complex web applications serving 1,000,000 + users with React and modern technologies.
 
 ## My Stack of Technologies:
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=html5&logoColor=F94C10&label=html5&color=557A46)
