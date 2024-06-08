@@ -26,6 +26,9 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=python&logoColor=F94C10&label=python&color=557A46)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=mysql&logoColor=F94C10&label=mysql&color=557A46)
 
+### Statistic:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alike73&theme=slateorange&show_icons=true)
+
 ## Find me in this place:	
 [<img src="https://img.shields.io/badge/linkedin-B2A4FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
 
