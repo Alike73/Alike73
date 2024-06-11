@@ -35,15 +35,15 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontend-alem&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alike73&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alike73&theme=slateorange&show_icons=true)
 
 ### Streak stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frontend-alem&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
 
 ### Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=frontend-alem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alike73&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -53,7 +53,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alimzhanis)
 [![Resume](https://img.shields.io/badge/-Resume-090909?style=for-the-badge&logo=readme&logoColor=B4068E)](https://cdn.glitch.global/a90b3004-8d37-4259-b1d8-de995de3c8d7/Alimzhan-Islamkulov-Resume.pdf?v=1717876966401)
 
-![](https://komarev.com/ghpvc/?username=frontend-alem)
+![](https://komarev.com/ghpvc/?username=Alike73)
 
 
 
