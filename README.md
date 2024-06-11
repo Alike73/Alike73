@@ -47,11 +47,8 @@
 
 ---
 
-### Find me in these places:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
+### Find me in this place:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alimzhanis)
-[![Resume](https://img.shields.io/badge/-Resume-090909?style=for-the-badge&logo=readme&logoColor=B4068E)](https://cdn.glitch.global/a90b3004-8d37-4259-b1d8-de995de3c8d7/Alimzhan-Islamkulov-Resume.pdf?v=1717876966401)
 
 ![](https://komarev.com/ghpvc/?username=Alike73)
 
