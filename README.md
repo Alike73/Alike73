@@ -1,36 +1,59 @@
 ![I am a Software Web Developer](GitHubBgNewBanner.png)
-# Full-Stack Development
-## Who I am
+## Websites/Content/Apps Creator 
 
-  Full-stack developer with 6+ years of experience creating and managing responsive web applications and RESTful APIs. Coding on ReactJS and dreaming on ReactJS. Help companies build complex web applications serving 1,000,000 + users with React and modern technologies.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=800&vCenter=true&random=false&width=800&height=40&lines=I+like+building+fun%2C+creative+websites+and+side+projects+;that+are+also+performant+and+accessible.+;My+happy+place+is+where+creativity+and+code+intersect.)](https://git.io/typing-svg)
 
-## My Stack of Technologies:
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=html5&logoColor=F94C10&label=html5&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=css3&logoColor=F94C10&label=css3&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=sass&logoColor=F94C10&label=sass&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=javascript&logoColor=F94C10&label=javascript&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=bootstrap&logoColor=F94C10&label=bootstrap&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=greensock&logoColor=F94C10&label=gsap&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=react&logoColor=F94C10&label=react&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=redux&logoColor=F94C10&label=redux&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=nodedotjs&logoColor=F94C10&label=node.js&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=mongodb&logoColor=F94C10&label=mongodb&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=mongoose&logoColor=F94C10&label=mongoose&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=express&logoColor=F94C10&label=express&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=F94C10&label=aws&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=jest&logoColor=F94C10&label=jest&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=adobephotoshop&logoColor=F94C10&label=photoshop&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=figma&logoColor=F94C10&label=figma&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=gimp&logoColor=F94C10&label=gimp&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=postman&logoColor=F94C10&label=postman&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=python&logoColor=F94C10&label=python&color=557A46)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%9A-brightgreen?style=for-the-badge&logo=mysql&logoColor=F94C10&label=mysql&color=557A46)
 
-### Statistic:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alike73&theme=slateorange&show_icons=true)
 
-## Find me in this place:	
-[<img src="https://img.shields.io/badge/linkedin-B2A4FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
+### Languages and Tools:
+![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
+![Static Badge](https://img.shields.io/badge/CSS3-%234A4A55?style=flat-square&logo=css3&logoColor=%2378C1F3)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%234A4A55?style=flat-square&logo=bootstrap&logoColor=%23E49BFF)
+![Static Badge](https://img.shields.io/badge/Sass-%234A4A55?style=flat-square&logo=sass&logoColor=%23F075AA)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%234A4A55?style=flat-square&logo=tailwind-css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%234A4A55?style=flat-square&logo=javascript&logoColor=%23FFE194)
+![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%23FEB941)
+![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
+![Vite](https://img.shields.io/badge/vite-%234A4A55?style=flat-square&logo=vite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redux-%234A4A55?style=flat-square&logo=redux&logoColor=%23C9A7EB)
+![Static Badge](https://img.shields.io/badge/NodeJS-%234A4A55?style=flat-square&logo=nodedotjs&logoColor=%2300FFCA)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
+![Static Badge](https://img.shields.io/badge/ExpressJS-%234A4A55?style=flat-square&logo=express&logoColor=%2300FFCA)
+![Static Badge](https://img.shields.io/badge/Docker-%234A4A55?style=flat-square&logo=docker&logoColor=%233ABEF9)
+![Static Badge](https://img.shields.io/badge/MongoDB-%234A4A55?style=flat-square&logo=mongodb&logoColor=%2300FFCA)
+![Static Badge](https://img.shields.io/badge/MySQL-%234A4A55?style=flat-square&logo=mysql&logoColor=%23A0DEFF)
+![Static Badge](https://img.shields.io/badge/GreenSock-%234A4A55?style=flat-square&logo=greensock&logoColor=%2300FFCA)
+![Static Badge](https://img.shields.io/badge/Jest-%234A4A55?style=flat-square&logo=jest&logoColor=%23FC4100)
+![Static Badge](https://img.shields.io/badge/Playwright-%234A4A55?style=flat-square&logo=playwright&logoColor=%23A3FFD6)
+![Static Badge](https://img.shields.io/badge/Postman-%234A4A55?style=flat-square&logo=postman&logoColor=%23FF7D29)
+![Git](https://img.shields.io/badge/git-%234A4A55?style=flat-square&logo=git&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%234A4A55?style=flat-square&logo=gimp&logoColor=FFFFFF)
+![Github Pages](https://img.shields.io/badge/github%20pages-%234A4A55?style=flat-square&logo=github&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%234A4A55?style=flat-square&logo=glitch&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%234A4A55?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontend-alem&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
+
+### Streak stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frontend-alem&theme=onedark)](https://git.io/streak-stats)
+
+### Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=frontend-alem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### Find me in these places:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alimzhanis)
+[![Resume](https://img.shields.io/badge/-Resume-090909?style=for-the-badge&logo=readme&logoColor=B4068E)](https://cdn.glitch.global/a90b3004-8d37-4259-b1d8-de995de3c8d7/Alimzhan-Islamkulov-Resume.pdf?v=1717876966401)
+
+![](https://komarev.com/ghpvc/?username=frontend-alem)
 
 
 
