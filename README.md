@@ -13,6 +13,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%234A4A55?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%234A4A55?style=flat-square&logo=javascript&logoColor=%23FFE194)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%23FEB941)
+![Static Badge](https://img.shields.io/badge/Python-%234A4A55?style=flat-square&logo=python&logoColor=%23FEB941)
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
 ![Vite](https://img.shields.io/badge/vite-%234A4A55?style=flat-square&logo=vite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redux-%234A4A55?style=flat-square&logo=redux&logoColor=%23C9A7EB)
