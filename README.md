@@ -36,9 +36,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alike73&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alike73&langs_count=8&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Alec's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alike73)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alike73&theme=slateorange&show_icons=true)
 
