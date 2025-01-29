@@ -8,12 +8,13 @@
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
 ![Static Badge](https://img.shields.io/badge/Nunjucks-%234A4A55?style=flat-square&logo=nunjucks&logoColor=%23F86F03)
+![Static Badge](https://img.shields.io/badge/Astro-%234A4A55?style=flat-square&logo=astro&logoColor=%FF2929)
 ![Static Badge](https://img.shields.io/badge/CSS3-%234A4A55?style=flat-square&logo=css3&logoColor=%2378C1F3)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%234A4A55?style=flat-square&logo=bootstrap&logoColor=%23E49BFF)
 ![Static Badge](https://img.shields.io/badge/Sass-%234A4A55?style=flat-square&logo=sass&logoColor=%23F075AA)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%234A4A55?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%234A4A55?style=flat-square&logo=javascript&logoColor=%23FFE194)
-![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%23FEB941)
+![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%37AFE1)
 ![Static Badge](https://img.shields.io/badge/Python-%234A4A55?style=flat-square&logo=python&logoColor=%3776AB)
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
 ![Vite](https://img.shields.io/badge/vite-%234A4A55?style=flat-square&logo=vite&logoColor=white)
@@ -32,6 +33,7 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-%234A4A55?style=flat-square&logo=github&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%234A4A55?style=flat-square&logo=glitch&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%234A4A55?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/DecapCMS-%234A4A55?style=flat-square&logo=decapcms&logoColor=#D91656)
 ![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%234A4A55?style=flat-square&logo=gimp&logoColor=FFFFFF)
 
