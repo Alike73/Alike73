@@ -7,7 +7,7 @@
 
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
-![Static Badge](https://img.shields.io/badge/NJK-%234A4A55?style=flat-square&logo=nunjucks&logoColor=%23F86F03)
+![Static Badge](https://img.shields.io/badge/Nunjucks-%234A4A55?style=flat-square&logo=nunjucks&logoColor=%23F86F03)
 ![Static Badge](https://img.shields.io/badge/CSS3-%234A4A55?style=flat-square&logo=css3&logoColor=%2378C1F3)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%234A4A55?style=flat-square&logo=bootstrap&logoColor=%23E49BFF)
 ![Static Badge](https://img.shields.io/badge/Sass-%234A4A55?style=flat-square&logo=sass&logoColor=%23F075AA)
