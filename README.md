@@ -19,6 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-%234A4A55?style=flat-square&logo=python&logoColor=%3776AB)
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
 ![Vite](https://img.shields.io/badge/Vite-%234A4A55?style=flat-square&logo=vite&logoColor=%EB3678)
+![Vite](https://img.shields.io/badge/Webpack-%234A4A55?style=flat-square&logo=webpack&logoColor=%EB3678)
 ![Static Badge](https://img.shields.io/badge/Redux-%234A4A55?style=flat-square&logo=redux&logoColor=%23C9A7EB)
 ![Static Badge](https://img.shields.io/badge/NodeJS-%234A4A55?style=flat-square&logo=nodedotjs&logoColor=%2300FFCA)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
