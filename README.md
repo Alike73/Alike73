@@ -41,6 +41,8 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alike73)](https://github.com/stats-organization/github-stats-extended)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alike73&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
