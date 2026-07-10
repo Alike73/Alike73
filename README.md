@@ -41,18 +41,8 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alike73)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alike73&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alike73&theme=slateorange&show_icons=true)
-
 ### Streak stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
-
-### Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alike73&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
