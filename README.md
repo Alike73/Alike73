@@ -44,7 +44,7 @@
 ### Streak stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
 
 ---
 
