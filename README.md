@@ -46,6 +46,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark&card_width=846)](https://git.io/streak-stats)
+
 ---
 
 ### Find me in this place:
