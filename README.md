@@ -8,7 +8,7 @@
 Full-stack developer working across React, TypeScript, Node.js, and Python.
 Builds static sites with Astro and Eleventy, and dynamic apps with Express, MongoDB, and MySQL.
 Styles everything with Sass, Tailwind, and Bootstrap, then ships to Netlify, Render, or GitHub Pages.
-Uses LLM looping and context engineering to speed up development, and works out of LASTH / AL Tech Labs in Cary, NC.
+Uses LLM looping and context engineering to speed up development, and works out of LASTH / AL Tech Labs.
 ```
 
 
