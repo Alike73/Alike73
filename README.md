@@ -45,6 +45,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark&card_width=1024)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Alike73&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=Alike73&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=calm&card_width=1024)
+
 ---
 
 ### Find me in this place:
