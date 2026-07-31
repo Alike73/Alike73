@@ -43,7 +43,7 @@
 
 ### Streak stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark&card_width=1584)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats-visualizer.vercel.app/api/streak?user=Alike73&theme=radical&border_radius=12)](https://github.com/Alike73)
 
 ![GitHub Streak](https://git-hub-streak-stats-visualizer.vercel.app/api/streak?user=Alike73&theme=nord&border_radius=12)
 
