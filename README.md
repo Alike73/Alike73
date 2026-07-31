@@ -43,14 +43,6 @@
 
 ### Streak stats:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Alike73&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=slateorange)](https://github-stats-extended.vercel.app/api?username=Alike73&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=slateorange)
-
-![GitHub Streak](https://git-hub-streak-stats-visualizer.vercel.app/api/streak?user=Alike73&theme=nord&border_radius=12)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alike73&theme=onedark&card_width=846)](https://git.io/streak-stats)
 
 ---
