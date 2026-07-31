@@ -4,6 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=800&vCenter=true&random=false&width=800&height=40&lines=I+like+building+fun%2C+creative+websites+and+side+projects+;that+are+also+performant+and+accessible.+;My+happy+place+is+where+creativity+and+code+intersect.)](https://git.io/typing-svg)
 
 
+```code
+Full-stack developer working across React, TypeScript, Node.js, and Python.
+Builds static sites with Astro and Eleventy, and dynamic apps with Express, MongoDB, and MySQL.
+Styles everything with Sass, Tailwind, and Bootstrap, then ships to Netlify, Render, or GitHub Pages.
+Uses LLM looping and context engineering to speed up development, and works out of LASTH / AL Tech Labs in Cary, NC.
+```
+
+
 
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
