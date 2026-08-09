@@ -24,7 +24,7 @@ Uses LLM looping and context engineering to speed up development, and works out 
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%234A4A55?style=flat-square&logo=tailwind-css&logoColor=%2378C1F3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%234A4A55?style=flat-square&logo=javascript&logoColor=%23FFE194)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%37AFE1)
-![Static Badge](https://img.shields.io/badge/Python-%234A4A55?style=flat-square&logo=python&logoColor=%3776AB)
+![Static Badge](https://img.shields.io/badge/Python-%234A4A55?style=flat-square&logo=python&logoColor=#3776AB)
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
 ![Vite](https://img.shields.io/badge/Vite-%234A4A55?style=flat-square&logo=vite&logoColor=%EB3678)
 ![Vite](https://img.shields.io/badge/Webpack-%234A4A55?style=flat-square&logo=webpack&logoColor=%EB3678)
