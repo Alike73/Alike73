@@ -48,6 +48,7 @@ Uses LLM looping and context engineering to speed up development, and works out 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%234A4A55?style=flat-square&logo=gimp&logoColor=FFFFFF)
 ![Claude](https://img.shields.io/badge/Claude-%234A4A55?style=flat-square&logo=claude&logoColor=#D97757)
 ![Ollama](https://img.shields.io/badge/Ollama-%234A4A55?style=flat-square&logo=ollama&logoColor=#000000)
+![Obsidian](https://img.shields.io/badge/Obsidian-%234A4A55?style=flat-square&logo=obsidian&logoColor=#7C3AED)
 
 ---
 
