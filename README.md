@@ -46,7 +46,8 @@ Uses LLM looping and context engineering to speed up development, and works out 
 ![Netlify](https://img.shields.io/badge/DecapCMS-%234A4A55?style=flat-square&logo=decapcms&logoColor=#D91656)
 ![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%234A4A55?style=flat-square&logo=gimp&logoColor=FFFFFF)
-![claude](https://img.shields.io/badge/Claude-%234A4A55?style=flat-square&logo=claude&logoColor=#D97757)
+![Claude](https://img.shields.io/badge/Claude-%234A4A55?style=flat-square&logo=claude&logoColor=#D97757)
+![Ollama](https://img.shields.io/badge/Ollama-%234A4A55?style=flat-square&logo=ollama&logoColor=#000000)
 
 ---
 
