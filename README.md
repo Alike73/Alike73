@@ -63,7 +63,7 @@ Uses LLM looping and context engineering to speed up development, and works out 
 ---
 
 ### Find me in this place:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
 
 ![](https://komarev.com/ghpvc/?username=Alike73)
 
