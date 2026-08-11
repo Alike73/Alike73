@@ -41,7 +41,6 @@ Uses LLM looping and context engineering to speed up development, and works out 
 ![Static Badge](https://img.shields.io/badge/Postman-%234A4A55?style=flat-square&logo=postman&logoColor=%23FF7D29)
 ![Git](https://img.shields.io/badge/Git-%234A4A55?style=flat-square&logo=git&logoColor=%23FC4100)
 ![Github Pages](https://img.shields.io/badge/GitHub%20pages-%234A4A55?style=flat-square&logo=github&logoColor=white)
-![Glitch](https://img.shields.io/badge/Glitch-%234A4A55?style=flat-square&logo=glitch&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%234A4A55?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Netlify](https://img.shields.io/badge/DecapCMS-%234A4A55?style=flat-square&logo=decapcms&logoColor=#D91656)
 ![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
@@ -53,6 +52,7 @@ Uses LLM looping and context engineering to speed up development, and works out 
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=html,nunjucks,astro,css,sass,less,tailwindcss,bootstrap,javascript,typescript,react,reactbootstrap,redux,reactquery,reactrouter,python,vite,webpack&perline=18)
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,docker,mongodb,mongoose,mysql,postgresql,postman,gitbash,git,gimp,jest,playwright,githubpages,netlify,render,claude,ollama&perline=18)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=obsidian)
 
 ---
 
