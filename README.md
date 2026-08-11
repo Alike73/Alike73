@@ -50,6 +50,9 @@ Uses LLM looping and context engineering to speed up development, and works out 
 ![Ollama](https://img.shields.io/badge/Ollama-%234A4A55?style=flat-square&logo=ollama&logoColor=#000000)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%234A4A55?style=flat-square&logo=obsidian&logoColor=#7C3AED)
 
+
+![icons](https://go-skill-icons.vercel.app/api/icons?i=html,nunjucks,astro,css,sass,less,tailwindcss,bootstrap,javascript,typescript,react,reactbootstrap,redux,reactquery,reactrouter,python,vite,webpack&perline=18)
+
 ---
 
 ### Streak stats:
