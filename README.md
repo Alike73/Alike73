@@ -52,7 +52,7 @@ Uses LLM looping and context engineering to speed up development, and works out 
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=html,nunjucks,astro,css,sass,less,tailwindcss,bootstrap,javascript,typescript,react,reactbootstrap,redux,reactquery,reactrouter,python,vite,webpack&perline=18)
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,docker,mongodb,mongoose,mysql,postgresql,postman,gitbash,git,gimp,jest,playwright,githubpages,netlify,render,claude,ollama&perline=18)
-![icons](https://go-skill-icons.vercel.app/api/icons?i=obsidian)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=obsidian,gsap,babel,supabase,zustand,vscode)
 
 ---
 
